@@ -1,0 +1,53 @@
+.card {
+
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 350px;
+    height: 450px;
+    padding: 10px;
+    margin-left: 35%;
+    margin-top: 3%;
+}
+
+#screen {
+
+    border: 1px solid grey;
+    border-radius: 5px;
+    width: 300px;
+    height: 110px;
+margin-top: 15px;
+margin-left: 25px;
+}
+
+#bmiResult {
+
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+text-align: center;
+margin-top: 36px;
+
+}
+
+.container {
+
+    text-align: center;
+    margin-top: 60px;
+}
+
+.inputFields {
+
+    margin: 20px;
+}
+
+.radioBtn {
+
+    text-align: center;
+    margin-top: 40px;
+}
+
+.checkBtn {
+
+margin-left: 40%;
+margin-top: 35px;
+    font-size: 15px;
+}
